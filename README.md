@@ -9,6 +9,10 @@ This project has been setup to demonstrate how to implement a connection between
 - React
 - PostgreSQL
 
+## React Frontend Link
+
+https://github.com/koomekevo/hello-react-front-end
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -22,8 +26,6 @@ Run `rails db:setup` from the command line to set database and migrations.
 Run `rails s` to run the local version
 
 Check your browser at `http://localhost:3000/`
-
-Run `bundle exec rspec spec` for testing purposes.
 
 ## Authors
 
